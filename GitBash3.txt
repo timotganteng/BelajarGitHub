@@ -1,0 +1,2 @@
+1. Belajar git clone pake git Bash
+2. Belajar git Branch
